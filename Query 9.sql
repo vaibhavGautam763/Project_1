@@ -1,0 +1,1 @@
+SELECT category, count(distinct customer_id) as unique_id FROM project_1.retail_sales_analysi group by category;
