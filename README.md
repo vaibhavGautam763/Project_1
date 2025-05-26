@@ -223,5 +223,11 @@ For more content on SQL, data analysis, and other data-related topics, make sure
 - **YouTube**: [Subscribe to my channel for tutorials and insights](YouTube Channel Link)
 - **Instagram**: [Follow me for daily tips and updates](Instagram Channel Link)
 - **LinkedIn**: [Connect with me professionally](LinkedIn Channel Link)
+- 
+
+# ERD
+
+![Project_2 ERD_Image png](https://github.com/user-attachments/assets/4aecdb3a-d559-4220-87a3-15562325185f)
+
 
 Thank you for your support, and I look forward to connecting with you!
